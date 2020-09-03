@@ -1,0 +1,21 @@
+container.aether_legacy.incubator=§7Incubator§r
+container.aether_legacy.enchanter=§7Enchanter§r
+container.aether_legacy.freezer=§7Freezer§r
+
+
+tab.aether_blocks=§7Aether Blocks§r
+tab.aether_tools=§7Aether Tools§r
+tab.aether_weapons=§7Aether Weapons§r
+tab.aether_armor=§7Aether Armor§r
+tab.aether_food=§7Aether Foods§r
+tab.aether_accessories=§7Aether Accessories§r
+tab.aether_material=§7Aether Materials§r
+tab.aether_misc=§7Aether Miscellaneous§r
+tab.accessories.name=§7Accessories§r
+
+
+gui.treasure_chest.bronze=§8Bronze Treasure Chest§r
+gui.treasure_chest.silver=§7Silver Treasure Chest§r
+gui.treasure_chest.gold=§fGold Treasure Chest§r
+gui.treasure_chest.platinum=§fPlatinum Treasure Chest§r
+gui.sun_altar.time=§7Select Time§r
